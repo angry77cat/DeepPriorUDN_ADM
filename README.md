@@ -13,3 +13,6 @@ Download ADM's Z modules and UDN models from [Google Drive](https://drive.google
 
 ## Running
 Please take look at `demo.ipynb` where we provide 8 non-blind deconvolution examples from Set14/Levin dataset, the perturbed noise level can select from 1%, 3%, 5% and 10%.
+
+## ADM demo
+![](demo_ADM.png)
